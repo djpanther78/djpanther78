@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Panther!
 
 Welcome to my GitHub profile! I'm passionate about Python programming, exploring Linux environments, and diving into the world of Pokémon GO mapping. Here's a bit more about me and what you can find here.
 
