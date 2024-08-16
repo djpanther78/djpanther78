@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about Python programming, exploring
 
 ## 📚 Projects
 
-- **[Pokémon GO Mapping Shiny Rated Discord Bot]([https://github.com/yourusername/pokemon-go-mapping-tools](https://github.com/djpanther78/Pokemon-GO-Shiny-Rates-Discord-Bot)**: Tools and scripts for visualizing and analyzing Pokémon GO data using Python on Linux systems.
+- **[Pokémon GO Mapping Shiny Rates Discord Bot]([https://github.com/yourusername/pokemon-go-mapping-tools](https://github.com/djpanther78/Pokemon-GO-Shiny-Rates-Discord-Bot))**
 
 ## 📬 Contact Me
 
