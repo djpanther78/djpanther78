@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**djpanther78/djpanther78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm [Your Name]!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about Python programming, exploring Linux environments, and diving into the world of Pokémon GO mapping. Here's a bit more about me and what you can find here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- **🔭 Currently Learning**: Python and Linux
+- **🌟 Interests**: Pokémon GO, Mapping Technologies, Data Analysis
+- **💻 Projects**: Various Python tools and scripts related to Pokémon GO and Linux automation
+
+## 📚 Projects
+
+- **[Pokémon GO Mapping Shiny Rated Discord Bot]([https://github.com/yourusername/pokemon-go-mapping-tools](https://github.com/djpanther78/Pokemon-GO-Shiny-Rates-Discord-Bot)**: Tools and scripts for visualizing and analyzing Pokémon GO data using Python on Linux systems.
+
+## 📬 Contact Me
+
+- **Email**: panther@pantherpedia.com
+
+Thanks for visiting my profile! 🚀
+
